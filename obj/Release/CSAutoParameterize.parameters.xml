@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="companiadb-Web.config Connection String" description="companiadb Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Integrated Security=SSPI;Persist Security Info=False;User ID=matias;Initial Catalog=webApiEmpresa;Data Source=DESKTOP-M6BU4CP;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\matias\\documents\\visual\ studio\ 2017\\Projects\\webApiEmpresa\\webApiEmpresa\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='companiadb']/@connectionString" />
+  </parameter>
+</parameters>
